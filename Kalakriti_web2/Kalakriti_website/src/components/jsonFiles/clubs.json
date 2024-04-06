@@ -1,0 +1,44 @@
+
+[
+    {
+        "heading":"Painting",
+        "description":"Our club offers painting sessions where members explore various techniques and styles, expressing their creativity through vibrant colors and captivating compositions. Medium: Acrylic and watercolor",
+        "members":"Bhavya Garg, GVS Shri Lekhana, Yash Goyal, Yubraj Das, Shrey Jain, Vidushi Soni, Akanksha, Animesh Prasad Singh, Karnati Kaarthika Netha, Hrishikesh Bharali, T.V.N.Nikhitha, Loyapally Aneesh, Susarla Sirichandana, Anurag Verma, Venkata Ajay, Rutuja P. Lahane, Kalyan Ram, Yashraj Reddy, Divyansh Sharma, Srinithya Bandi, Borru Vijay Sai, Shriya Jain, Kotikalapudi Rohith V S D Manikanta"
+    },
+    {
+        "heading":"Sketching",
+        "description":" Members hone their sketching skills in our club, capturing fleeting moments and intricate details with precision and spontaneity, refining their observational abilities and artistic instincts. Medium: Charcoal and graphite",
+        "members":"Ayush Mishra, Harshil, Priotosh Sarkar, Hrishikesh Bharali,Phanindra Kumar Gudivada, Siri Chandana Annamdevula, Rishita Jain, Rohit Matta, Shreya Maity, Gajula Benny Chainik, K. Sanjana Priya, Raag Meshram, Mohitha Kamireddy, A. Charmila, Venkata Ajay, Karan Raj, Kalyan Ram, Yashraj Reddy, Divyansh Sharma, Keerthika P, Sayali Abhay Khamitkar, Darshini D Kinni, Shrinivas Basanagouda Malipatil, Sampath, Shriya Jain, Pukkalla V.V.S Ramu, Yubraj Das, Shovan Biswas"
+    },
+    {
+        "heading":"Penart",
+        "description":" Discover the versatility of pen art in our club, where members master the use of pens to create detailed and expressive drawings, exploring the interplay of lines, shading, and texture to convey depth and emotion.",
+        "members":"Hassan Sarin, Aniket Kumar, Raag Meshram, Kumkum, Susarla Siri chandana, Anurag Verma, Karan Raj, Pukkalla V.V.S Ramu, Yubraj Das"
+    },
+    {
+        "heading":"Crafts",
+        "description":"Our club celebrates the art of craftsmanship, offering opportunities to explore various traditional and contemporary craft techniques, allowing members to create handmade treasures that embody skill and creativity.",
+        "members":"Sree Nithya Narishetty,  Aishwarya,  Sreekar Vetsa,  Loyapally Aneesh,  Keerthika P,  Shrinivas Basanagouda,  Malipatil,  Natasha Mukherjee"
+    },
+    {
+        "heading":"Mandala",
+        "description":"Delve into the spiritual and artistic realm of mandalas in our club, where members create intricate patterns symbolizing unity and harmony, guiding their inner journey through layers of symbolism and symmetry ",
+        "members":"Sushma Reddy, Kumkum, Srinithya Bandi, C.Veda Reddy, M. Lohitha Sri, K.Harshitha Sri, Siri Chandana Annamdevula, Tanya, A.Divya, T.V.N.Nikhitha"
+    },
+    {
+        "heading":"Digital Arts",
+        "description":"Dive into the digital realm of artistic expression in our club, where members explore digital painting, graphic design, and multimedia art, harnessing technology to create innovative and immersive artworks ",
+        "members":"Besta Sai Prathap,  Rishita Jain,  Venkata Ajay,  Karnati Kaarthika Netha,  Natasha Mukherjee"
+    },
+    {
+        "heading":"Fashion Design",
+        "description":"Embark on a journey of style and innovation in our fashion design club, where members explore trends, fabrics, and techniques to create unique garments that reflect their individuality and creativity",
+        "members":"Meghana Raaj,  Shrey Jain,  Natasha Mukherjee,  GVS Shri Lekhana"
+    },
+    {
+        "heading":"Calligraphy",
+        "description":"Our club offers calligraphy, where members learn the graceful art of beautiful writing, exploring various styles and techniques to create elegant letterforms reflecting tradition and creativity.",
+        "members":"Natasha Mukherjee,  T.V.N.Nikhitha,  Yash Goyal,  Pukkalla V.V.S Ramu, Darshini D Kinni,  Karan Raj,  Shreya Maity,  Rutuja P.Lahane,  Kumkum,  Aishwarya, GVS Shri Lekhana"
+    }
+    
+]
